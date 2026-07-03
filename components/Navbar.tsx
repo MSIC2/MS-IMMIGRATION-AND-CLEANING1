@@ -127,7 +127,7 @@ className={`flex items-center gap-2 ${scroll?"text-slate-700":"text-white"}`}>
 
 <a
 
-href="https://wa.me/2292290190722415"
+href="https://wa.me/2290190722415"
 
 target="_blank"
 
